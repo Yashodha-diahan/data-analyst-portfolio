@@ -22,6 +22,13 @@ into actionable business insights through hands-on projects.
 - Answered 10 key business questions using advanced SQL
 - Skills: Window Functions, CTEs, CASE WHEN, Aggregations, LAG
 
+
+### 5. [Stock Market Comparison Analysis](./stock-market-analysis/)
+- **Tools:** Python, yfinance, Pandas, SciPy
+- **Dataset:** 5 tech stocks (AAPL, GOOGL, MSFT, AMZN, TSLA) 2023-2026
+- Risk vs Return analysis, Sharpe Ratio, T-Tests
+- Skills: API data, statistics, multi-stock comparison
+
 ## 📫 Contact
 - GitHub: [@Yashodha-diahan](https://github.com/Yashodha-diahan)
 
